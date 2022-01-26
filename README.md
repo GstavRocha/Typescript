@@ -1,1 +1,1 @@
-# My repository by studies in typeScript :v:
+# My repository studies in typeScript :v:
